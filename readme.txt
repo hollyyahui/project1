@@ -1,4 +1,4 @@
 ¡°¡±¡±
-git a version control system
+git a distributed version control system
 git is free software
 ¡°¡±¡±
